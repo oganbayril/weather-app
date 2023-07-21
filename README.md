@@ -1,2 +1,2 @@
-A weather app which works on the terminal by inputting the location.
+A weather app which works in the terminal by inputting the location.
  
